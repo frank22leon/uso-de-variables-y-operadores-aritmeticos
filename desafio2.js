@@ -18,7 +18,7 @@ if (numberOneQty > 0 && numberTwoQty > 0 && numberTwoQty !== numberOneQty) {
 let resultSum = (numberOneQty + numberTwoQty);
 let resultSubstraction = (numberOneQty - numberTwoQty);
 let resultDivision = (numberOneQty * numberTwoQty);3
-let resultMultiplication = (numberOneQty / numberTwoQty);100
+let resultMultiplication = (numberOneQty / numberTwoQty);
 let resultModule = (numberOneQty % numberTwoQty);
 
 
