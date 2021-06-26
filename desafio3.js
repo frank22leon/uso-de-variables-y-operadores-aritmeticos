@@ -5,9 +5,9 @@ const celsiusQty = Number.parseInt(celsius)
 
 console.log(celsiusQty)
 
-//conversin celsius a kelvin
+//conversion celsius a kelvin
 const transformKelvin =  celsiusQty + 273.15;
-//conversin celsius a Fahrenheit
+//conversion celsius a Fahrenheit
 const transformFahrenheit = (celsiusQty * 9/5) + 32;
 
 console.log(transformKelvin, transformFahrenheit)
